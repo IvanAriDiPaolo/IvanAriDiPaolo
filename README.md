@@ -1,3 +1,4 @@
+<center>
 <h1 align="center">Hola 👋, soy Ivan Di Paolo</h1>
 <h3 align="center">Desarrollador Web Front-End</h3>
 
@@ -17,3 +18,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivanaridipaolo&show_icons=true&locale=en" alt="ivanaridipaolo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivanaridipaolo&" alt="ivanaridipaolo" /></p>
+</center>
